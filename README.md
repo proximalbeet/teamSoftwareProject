@@ -1,0 +1,1 @@
+Hello, if you are reading this please know that this repo has no use case and is purely for completing an assignment for one of my classes. This repo only contains a test file that prints welcome to the console.
